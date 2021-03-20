@@ -1,1 +1,1 @@
-# shoplibbi.github.io
+# shop.libbi coming soon!
