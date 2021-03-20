@@ -1,1 +1,1 @@
-# shop.libbi coming soon!
+# libbi.shop coming soon!
