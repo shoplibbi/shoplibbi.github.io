@@ -136,6 +136,15 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/jquery.magnific-popup.min.js"></script>
     <script src="assets/js/creative.js"></script>
+    <script>
+        var link = document.querySelector("link[rel~='image/png']");
+            if (!link) {
+             link = document.createElement('link');
+             link.rel = 'image/png';
+               document.getElementsByTagName('head')[0].appendChild(link);
+                     }
+          link.href = 'https://shoplibbi.github.io/assets/img/32px.png';
+    </script>
 </body>
 
 </html>
